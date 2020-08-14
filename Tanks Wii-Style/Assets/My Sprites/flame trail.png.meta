@@ -1,0 +1,1999 @@
+fileFormatVersion: 2
+guid: 63bf06a6362761444a586741dd566626
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2529864784994296649
+    second: flame trail_0
+  - first:
+      213: -6503997568912076932
+    second: flame trail_1
+  - first:
+      213: 7056912340313605328
+    second: flame trail_2
+  - first:
+      213: -7942003344472081944
+    second: flame trail_3
+  - first:
+      213: -8993721948880013014
+    second: flame trail_4
+  - first:
+      213: -5717986564422552694
+    second: flame trail_5
+  - first:
+      213: -3326208050210481651
+    second: flame trail_6
+  - first:
+      213: 1314147345909975430
+    second: flame trail_7
+  - first:
+      213: 2484216658878510215
+    second: flame trail_8
+  - first:
+      213: 101569043052929884
+    second: flame trail_9
+  - first:
+      213: -2117176524679307144
+    second: flame trail_10
+  - first:
+      213: -4535736516032139008
+    second: flame trail_11
+  - first:
+      213: 1041224521939398106
+    second: flame trail_12
+  - first:
+      213: -2504377746079314738
+    second: flame trail_13
+  - first:
+      213: -5730840720909885698
+    second: flame trail_14
+  - first:
+      213: -3022578017065167938
+    second: flame trail_15
+  - first:
+      213: 1993762562759593521
+    second: flame trail_16
+  - first:
+      213: -5871270811262925964
+    second: flame trail_17
+  - first:
+      213: 1985915376641608648
+    second: flame trail_18
+  - first:
+      213: 3812576714206694840
+    second: flame trail_19
+  - first:
+      213: 3669461448841975065
+    second: flame trail_20
+  - first:
+      213: 7570654682954777137
+    second: flame trail_21
+  - first:
+      213: 2266651924568820520
+    second: flame trail_22
+  - first:
+      213: -6417807568801538769
+    second: flame trail_23
+  - first:
+      213: -6646988488724361098
+    second: flame trail_24
+  - first:
+      213: 4606188631380166398
+    second: flame trail_25
+  - first:
+      213: -2766605486717795096
+    second: flame trail_26
+  - first:
+      213: 7286808976676609843
+    second: flame trail_27
+  - first:
+      213: -7016445750626658588
+    second: flame trail_28
+  - first:
+      213: 3383652852197550056
+    second: flame trail_29
+  - first:
+      213: -8105529915733237813
+    second: flame trail_30
+  - first:
+      213: 3784404843794758501
+    second: flame trail_31
+  - first:
+      213: 1774820521655123369
+    second: flame trail_32
+  - first:
+      213: -1552981207350987543
+    second: flame trail_33
+  - first:
+      213: 240227203628830819
+    second: flame trail_34
+  - first:
+      213: -4996642957400364168
+    second: flame trail_35
+  - first:
+      213: 3616252355712684870
+    second: flame trail_36
+  - first:
+      213: 8671878651467889011
+    second: flame trail_37
+  - first:
+      213: 6304488116837516718
+    second: flame trail_38
+  - first:
+      213: -5665475552008376689
+    second: flame trail_39
+  - first:
+      213: -3082054774395116852
+    second: flame trail_40
+  - first:
+      213: -1391324317464048189
+    second: flame trail_41
+  - first:
+      213: -4688285907485198159
+    second: flame trail_42
+  - first:
+      213: 1840007042572731111
+    second: flame trail_43
+  - first:
+      213: 6482645217670258863
+    second: flame trail_44
+  - first:
+      213: 8469024473334018207
+    second: flame trail_45
+  - first:
+      213: 4135985252687952244
+    second: flame trail_46
+  - first:
+      213: 4266125708845558200
+    second: flame trail_47
+  - first:
+      213: -1545686794890695600
+    second: flame trail_48
+  - first:
+      213: 3657386250278115142
+    second: flame trail_49
+  - first:
+      213: -2182420387387867944
+    second: flame trail_50
+  - first:
+      213: 5379802826864653304
+    second: flame trail_51
+  - first:
+      213: -4017392991843067547
+    second: flame trail_52
+  - first:
+      213: 888397042332461415
+    second: flame trail_53
+  - first:
+      213: -8032400919919886612
+    second: flame trail_54
+  - first:
+      213: -7615981680592385833
+    second: flame trail_55
+  - first:
+      213: -1581013553395536984
+    second: flame trail_56
+  - first:
+      213: 2512871794776178883
+    second: flame trail_57
+  - first:
+      213: -5654079243238289898
+    second: flame trail_58
+  - first:
+      213: 1197123514219201754
+    second: flame trail_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flame trail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -23}
+        - {x: 14, y: -22}
+        - {x: 14, y: -19}
+        - {x: 13, y: -18}
+        - {x: 13, y: -6}
+        - {x: 15, y: -4}
+        - {x: 15, y: -3}
+        - {x: 11, y: 1}
+        - {x: 11, y: 5}
+        - {x: 8, y: 8}
+        - {x: 8, y: 13}
+        - {x: 7, y: 15}
+        - {x: 5, y: 16}
+        - {x: 5, y: 18}
+        - {x: 3, y: 20}
+        - {x: 0, y: 20}
+        - {x: -1, y: 21}
+        - {x: -7, y: 21}
+        - {x: -9, y: 16}
+        - {x: -9, y: 13}
+        - {x: -8, y: 11}
+        - {x: -10, y: 9}
+        - {x: -10, y: 6}
+        - {x: -9, y: 4}
+        - {x: -12, y: -1}
+        - {x: -12, y: -5}
+        - {x: -16, y: -9}
+        - {x: -16, y: -14}
+        - {x: -15, y: -15}
+        - {x: -15, y: -21}
+        - {x: -12, y: -25}
+        - {x: -10, y: -26}
+        - {x: -10, y: -28}
+        - {x: -8, y: -30}
+        - {x: -3, y: -30}
+        - {x: -1, y: -29}
+        - {x: 2, y: -31}
+        - {x: 4, y: -31}
+        - {x: 7, y: -29}
+        - {x: 8, y: -28}
+        - {x: 11, y: -26}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7bc15a0c16d14ecd0800000000000000
+      internalID: -2529864784994296649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -23}
+        - {x: 14, y: -21}
+        - {x: 13, y: -19}
+        - {x: 13, y: -6}
+        - {x: 15, y: -4}
+        - {x: 15, y: -3}
+        - {x: 12, y: 1}
+        - {x: 11, y: 5}
+        - {x: 8, y: 9}
+        - {x: 8, y: 14}
+        - {x: 7, y: 16}
+        - {x: 5, y: 17}
+        - {x: 5, y: 19}
+        - {x: 3, y: 21}
+        - {x: -1, y: 20}
+        - {x: -5, y: 23}
+        - {x: -6, y: 23}
+        - {x: -8, y: 21}
+        - {x: -7, y: 18}
+        - {x: -9, y: 16}
+        - {x: -9, y: 15}
+        - {x: -7, y: 11}
+        - {x: -10, y: 9}
+        - {x: -9, y: 7}
+        - {x: -9, y: 4}
+        - {x: -11, y: 2}
+        - {x: -12, y: -1}
+        - {x: -12, y: -5}
+        - {x: -16, y: -9}
+        - {x: -16, y: -14}
+        - {x: -15, y: -15}
+        - {x: -16, y: -18}
+        - {x: -15, y: -19}
+        - {x: -15, y: -21}
+        - {x: -12, y: -25}
+        - {x: -10, y: -25}
+        - {x: -11, y: -27}
+        - {x: -8, y: -30}
+        - {x: -3, y: -30}
+        - {x: -1, y: -29}
+        - {x: 3, y: -31}
+        - {x: 4, y: -31}
+        - {x: 7, y: -28}
+        - {x: 7, y: -26}
+        - {x: 10, y: -23}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: c7fcdf4bba82db5a0800000000000000
+      internalID: -6503997568912076932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -30}
+        - {x: 6, y: -28}
+        - {x: 7, y: -24}
+        - {x: 8, y: -23}
+        - {x: 10, y: -23}
+        - {x: 13, y: -20}
+        - {x: 13, y: -6}
+        - {x: 15, y: -4}
+        - {x: 15, y: -3}
+        - {x: 12, y: 2}
+        - {x: 12, y: 4}
+        - {x: 10, y: 6}
+        - {x: 10, y: 8}
+        - {x: 8, y: 10}
+        - {x: 8, y: 14}
+        - {x: 5, y: 17}
+        - {x: 5, y: 20}
+        - {x: 3, y: 22}
+        - {x: -1, y: 21}
+        - {x: -3, y: 22}
+        - {x: -8, y: 17}
+        - {x: -8, y: 14}
+        - {x: -6, y: 11}
+        - {x: -6, y: 9}
+        - {x: -8, y: 7}
+        - {x: -8, y: 6}
+        - {x: -7, y: 5}
+        - {x: -8, y: 4}
+        - {x: -9, y: 4}
+        - {x: -11, y: 2}
+        - {x: -11, y: 0}
+        - {x: -12, y: -1}
+        - {x: -12, y: -5}
+        - {x: -14, y: -5}
+        - {x: -16, y: -7}
+        - {x: -17, y: -11}
+        - {x: -16, y: -12}
+        - {x: -15, y: -16}
+        - {x: -16, y: -18}
+        - {x: -15, y: -19}
+        - {x: -15, y: -21}
+        - {x: -12, y: -24}
+        - {x: -10, y: -24}
+        - {x: -10, y: -28}
+        - {x: -8, y: -30}
+        - {x: -3, y: -30}
+        - {x: -2, y: -29}
+        - {x: 0, y: -29}
+        - {x: 1, y: -30}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0d4867762603fe160800000000000000
+      internalID: 7056912340313605328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -24}
+        - {x: 13, y: -20}
+        - {x: 12, y: -17}
+        - {x: 13, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: -11}
+        - {x: 13, y: -10}
+        - {x: 13, y: -6}
+        - {x: 14, y: -5}
+        - {x: 14, y: 0}
+        - {x: 12, y: 2}
+        - {x: 12, y: 6}
+        - {x: 8, y: 12}
+        - {x: 8, y: 15}
+        - {x: 7, y: 17}
+        - {x: 5, y: 18}
+        - {x: 5, y: 21}
+        - {x: 3, y: 23}
+        - {x: 2, y: 23}
+        - {x: 0, y: 21}
+        - {x: -2, y: 23}
+        - {x: -4, y: 23}
+        - {x: -5, y: 21}
+        - {x: -8, y: 17}
+        - {x: -8, y: 16}
+        - {x: -6, y: 13}
+        - {x: -6, y: 9}
+        - {x: -7, y: 8}
+        - {x: -6, y: 6}
+        - {x: -7, y: 4}
+        - {x: -9, y: 4}
+        - {x: -11, y: 2}
+        - {x: -11, y: 0}
+        - {x: -12, y: -1}
+        - {x: -12, y: -5}
+        - {x: -14, y: -5}
+        - {x: -17, y: -8}
+        - {x: -17, y: -11}
+        - {x: -16, y: -12}
+        - {x: -16, y: -18}
+        - {x: -14, y: -20}
+        - {x: -14, y: -22}
+        - {x: -12, y: -24}
+        - {x: -10, y: -24}
+        - {x: -10, y: -26}
+        - {x: -6, y: -30}
+        - {x: 1, y: -29}
+        - {x: 3, y: -30}
+        - {x: 6, y: -27}
+        - {x: 6, y: -24}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8e9f6c7690658c190800000000000000
+      internalID: -7942003344472081944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -27}
+        - {x: 6, y: -24}
+        - {x: 7, y: -23}
+        - {x: 11, y: -22}
+        - {x: 13, y: -20}
+        - {x: 12, y: -17}
+        - {x: 13, y: -16}
+        - {x: 13, y: -13}
+        - {x: 12, y: -11}
+        - {x: 13, y: -10}
+        - {x: 13, y: -4}
+        - {x: 14, y: -3}
+        - {x: 14, y: 0}
+        - {x: 12, y: 2}
+        - {x: 10, y: 10}
+        - {x: 8, y: 13}
+        - {x: 8, y: 16}
+        - {x: 6, y: 19}
+        - {x: 4, y: 20}
+        - {x: 4, y: 21}
+        - {x: 2, y: 23}
+        - {x: 0, y: 22}
+        - {x: -1, y: 23}
+        - {x: -3, y: 23}
+        - {x: -7, y: 20}
+        - {x: -8, y: 16}
+        - {x: -6, y: 14}
+        - {x: -6, y: 11}
+        - {x: -7, y: 10}
+        - {x: -6, y: 7}
+        - {x: -7, y: 5}
+        - {x: -8, y: 5}
+        - {x: -11, y: 2}
+        - {x: -12, y: -4}
+        - {x: -13, y: -4}
+        - {x: -17, y: -8}
+        - {x: -17, y: -11}
+        - {x: -15, y: -15}
+        - {x: -15, y: -19}
+        - {x: -12, y: -24}
+        - {x: -10, y: -25}
+        - {x: -10, y: -26}
+        - {x: -6, y: -30}
+        - {x: -3, y: -30}
+        - {x: 0, y: -28}
+        - {x: 1, y: -29}
+        - {x: 4, y: -29}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: a297f5cc981ef2380800000000000000
+      internalID: -8993721948880013014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -13}
+        - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 13, y: -8}
+        - {x: 13, y: -4}
+        - {x: 14, y: -3}
+        - {x: 14, y: -1}
+        - {x: 12, y: 2}
+        - {x: 11, y: 6}
+        - {x: 12, y: 8}
+        - {x: 8, y: 14}
+        - {x: 8, y: 17}
+        - {x: 6, y: 19}
+        - {x: 4, y: 19}
+        - {x: 5, y: 21}
+        - {x: 2, y: 24}
+        - {x: -1, y: 23}
+        - {x: -3, y: 24}
+        - {x: -7, y: 20}
+        - {x: -7, y: 17}
+        - {x: -5, y: 15}
+        - {x: -5, y: 14}
+        - {x: -7, y: 12}
+        - {x: -7, y: 11}
+        - {x: -5, y: 9}
+        - {x: -5, y: 8}
+        - {x: -8, y: 5}
+        - {x: -10, y: 4}
+        - {x: -10, y: 1}
+        - {x: -12, y: -1}
+        - {x: -12, y: -4}
+        - {x: -13, y: -4}
+        - {x: -17, y: -8}
+        - {x: -17, y: -10}
+        - {x: -16, y: -11}
+        - {x: -16, y: -14}
+        - {x: -15, y: -15}
+        - {x: -15, y: -19}
+        - {x: -10, y: -24}
+        - {x: -10, y: -26}
+        - {x: -7, y: -29}
+        - {x: -2, y: -29}
+        - {x: 0, y: -28}
+        - {x: 2, y: -29}
+        - {x: 12, y: -19}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: a83332dc381a5a0b0800000000000000
+      internalID: -5717986564422552694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -13}
+        - {x: 12, y: -12}
+        - {x: 12, y: -5}
+        - {x: 13, y: -4}
+        - {x: 13, y: 1}
+        - {x: 11, y: 3}
+        - {x: 11, y: 6}
+        - {x: 13, y: 8}
+        - {x: 13, y: 9}
+        - {x: 9, y: 13}
+        - {x: 9, y: 14}
+        - {x: 7, y: 16}
+        - {x: 8, y: 17}
+        - {x: 7, y: 20}
+        - {x: 4, y: 20}
+        - {x: 4, y: 22}
+        - {x: 2, y: 24}
+        - {x: -2, y: 25}
+        - {x: -7, y: 20}
+        - {x: -7, y: 18}
+        - {x: -6, y: 17}
+        - {x: -7, y: 12}
+        - {x: -2, y: 9}
+        - {x: -5, y: 7}
+        - {x: -5, y: 6}
+        - {x: -8, y: 4}
+        - {x: -8, y: 3}
+        - {x: -12, y: -1}
+        - {x: -12, y: -3}
+        - {x: -17, y: -8}
+        - {x: -17, y: -9}
+        - {x: -14, y: -15}
+        - {x: -15, y: -16}
+        - {x: -14, y: -20}
+        - {x: -9, y: -25}
+        - {x: -9, y: -26}
+        - {x: -6, y: -29}
+        - {x: -2, y: -29}
+        - {x: 0, y: -28}
+        - {x: 2, y: -29}
+        - {x: 12, y: -19}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: d0ad82eb66fe6d1d0800000000000000
+      internalID: -3326208050210481651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -16}
+        - {x: 13, y: -15}
+        - {x: 13, y: -11}
+        - {x: 12, y: -10}
+        - {x: 12, y: -3}
+        - {x: 13, y: -2}
+        - {x: 13, y: 1}
+        - {x: 11, y: 3}
+        - {x: 11, y: 7}
+        - {x: 10, y: 9}
+        - {x: 11, y: 11}
+        - {x: 9, y: 16}
+        - {x: 7, y: 17}
+        - {x: 7, y: 19}
+        - {x: 5, y: 21}
+        - {x: 3, y: 21}
+        - {x: 4, y: 22}
+        - {x: 3, y: 25}
+        - {x: -2, y: 25}
+        - {x: -6, y: 23}
+        - {x: -7, y: 19}
+        - {x: -5, y: 17}
+        - {x: -7, y: 15}
+        - {x: -7, y: 13}
+        - {x: -5, y: 11}
+        - {x: -3, y: 11}
+        - {x: -1, y: 9}
+        - {x: -9, y: 3}
+        - {x: -9, y: 2}
+        - {x: -12, y: -1}
+        - {x: -12, y: -3}
+        - {x: -17, y: -8}
+        - {x: -17, y: -9}
+        - {x: -16, y: -10}
+        - {x: -16, y: -12}
+        - {x: -14, y: -14}
+        - {x: -14, y: -20}
+        - {x: -5, y: -29}
+        - {x: 3, y: -28}
+        - {x: 9, y: -23}
+        - {x: 11, y: -22}
+        - {x: 12, y: -19}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6898c776c0acc3210800000000000000
+      internalID: 1314147345909975430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -23}
+        - {x: 12, y: -19}
+        - {x: 13, y: -11}
+        - {x: 12, y: -10}
+        - {x: 12, y: 2}
+        - {x: 11, y: 3}
+        - {x: 11, y: 8}
+        - {x: 13, y: 10}
+        - {x: 13, y: 11}
+        - {x: 8, y: 16}
+        - {x: 8, y: 18}
+        - {x: 5, y: 22}
+        - {x: 3, y: 22}
+        - {x: 3, y: 23}
+        - {x: 2, y: 25}
+        - {x: -3, y: 25}
+        - {x: -6, y: 22}
+        - {x: -6, y: 20}
+        - {x: -5, y: 18}
+        - {x: -7, y: 16}
+        - {x: -7, y: 15}
+        - {x: -4, y: 12}
+        - {x: -2, y: 12}
+        - {x: -2, y: 11}
+        - {x: 0, y: 9}
+        - {x: -2, y: 9}
+        - {x: -9, y: 3}
+        - {x: -9, y: 2}
+        - {x: -11, y: 0}
+        - {x: -11, y: -2}
+        - {x: -16, y: -7}
+        - {x: -16, y: -10}
+        - {x: -13, y: -13}
+        - {x: -13, y: -14}
+        - {x: -14, y: -15}
+        - {x: -14, y: -20}
+        - {x: -5, y: -29}
+        - {x: 3, y: -28}
+        - {x: 5, y: -26}
+        - {x: 7, y: -26}
+        - {x: 9, y: -24}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 784bf89a3e5b97220800000000000000
+      internalID: 2484216658878510215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -19}
+        - {x: 12, y: -15}
+        - {x: 14, y: -13}
+        - {x: 14, y: -12}
+        - {x: 13, y: -11}
+        - {x: 13, y: -9}
+        - {x: 12, y: -8}
+        - {x: 11, y: -4}
+        - {x: 12, y: -3}
+        - {x: 12, y: 2}
+        - {x: 10, y: 4}
+        - {x: 11, y: 6}
+        - {x: 11, y: 13}
+        - {x: 8, y: 17}
+        - {x: 7, y: 21}
+        - {x: 5, y: 23}
+        - {x: 3, y: 23}
+        - {x: 0, y: 26}
+        - {x: -1, y: 26}
+        - {x: -5, y: 23}
+        - {x: -4, y: 21}
+        - {x: -7, y: 18}
+        - {x: -7, y: 16}
+        - {x: -2, y: 12}
+        - {x: 0, y: 9}
+        - {x: -2, y: 9}
+        - {x: -6, y: 6}
+        - {x: -8, y: 5}
+        - {x: -8, y: 3}
+        - {x: -11, y: 0}
+        - {x: -11, y: -2}
+        - {x: -16, y: -7}
+        - {x: -16, y: -8}
+        - {x: -14, y: -12}
+        - {x: -14, y: -20}
+        - {x: -6, y: -28}
+        - {x: -4, y: -28}
+        - {x: -3, y: -29}
+        - {x: 1, y: -28}
+        - {x: 4, y: -26}
+        - {x: 7, y: -26}
+        - {x: 10, y: -24}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: c53a85ba188d86100800000000000000
+      internalID: 101569043052929884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a1b70b274e92e0800000000000000
+      internalID: -2117176524679307144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001f2278ba3dd01c0800000000000000
+      internalID: -4535736516032139008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addaf91af2c237e00800000000000000
+      internalID: 1041224521939398106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8c8d65b9ae3dd0800000000000000
+      internalID: -2504377746079314738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe92d54ab6f770b0800000000000000
+      internalID: -5730840720909885698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb31deace45ad06d0800000000000000
+      internalID: -3022578017065167938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e02c7cc744bab10800000000000000
+      internalID: 1993762562759593521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473cd82fd4e058ea0800000000000000
+      internalID: -5871270811262925964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb85b263836f8b10800000000000000
+      internalID: 1985915376641608648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4739525ef8e430800000000000000
+      internalID: 3812576714206694840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915573ffebb8ce230800000000000000
+      internalID: 3669461448841975065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132caa6b25e501960800000000000000
+      internalID: 7570654682954777137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b41698ae3c47f10800000000000000
+      internalID: 2266651924568820520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d55c8e40e5fe6a0800000000000000
+      internalID: -6417807568801538769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670597fcf2721c3a0800000000000000
+      internalID: -6646988488724361098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68bd5d7287cef30800000000000000
+      internalID: 4606188631380166398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e40a8ac7fa0b99d0800000000000000
+      internalID: -2766605486717795096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fdfe83822ff1560800000000000000
+      internalID: 7286808976676609843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65918b3c390ae90800000000000000
+      internalID: -7016445750626658588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e87a775625fe20800000000000000
+      internalID: 3383652852197550056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf1b609c7f538f80800000000000000
+      internalID: -8105529915733237813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b77a0a728e48430800000000000000
+      internalID: 3784404843794758501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adb35d6cdd61a810800000000000000
+      internalID: 1774820521655123369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4bcf8e1d3b27ae0800000000000000
+      internalID: -1552981207350987543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609ea17e55755300800000000000000
+      internalID: 240227203628830819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba1be14bb58aab0800000000000000
+      internalID: -4996642957400364168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6439c689b528f2230800000000000000
+      internalID: 3616252355712684870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379790c10b3b85870800000000000000
+      internalID: 8671878651467889011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea585c62a8a0e7750800000000000000
+      internalID: 6304488116837516718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e61ee90003061b0800000000000000
+      internalID: -5665475552008376689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2e1e913875a35d0800000000000000
+      internalID: -3082054774395116852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd4132a7e501bce0800000000000000
+      internalID: -1391324317464048189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8ffd68eccdfeeb0800000000000000
+      internalID: -4688285907485198159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c3cc08a4098910800000000000000
+      internalID: 1840007042572731111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ee1c9a7bf6f950800000000000000
+      internalID: 6482645217670258863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90f92f33e4088570800000000000000
+      internalID: 8469024473334018207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47938b68ca8f56930800000000000000
+      internalID: 4135985252687952244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a6e2bab2543b30800000000000000
+      internalID: 4266125708845558200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c2788ac0e9c8ae0800000000000000
+      internalID: -1545686794890695600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647993eba65a1c230800000000000000
+      internalID: 3657386250278115142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcfc2b783c76b1e0800000000000000
+      internalID: -2182420387387867944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f8e8ea26e8aa40800000000000000
+      internalID: 5379802826864653304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569dc06eb5a5f38c0800000000000000
+      internalID: -4017392991843067547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769ebbf2768345c00800000000000000
+      internalID: 888397042332461415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee77aabbed278090800000000000000
+      internalID: -8032400919919886612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8886043099e4690800000000000000
+      internalID: -7615981680592385833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe7ccbc8c1f0ae0800000000000000
+      internalID: -1581013553395536984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c08bb565938fd220800000000000000
+      internalID: 2512871794776178883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4fd682eca881b0800000000000000
+      internalID: -5654079243238289898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame trail_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad48d495e790d9010800000000000000
+      internalID: 1197123514219201754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 5a963e00dda160f4f97f9980c08eb74f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1999529432567807933
+    second: plasma-effect_0
+  - first:
+      213: -4653539038005910116
+    second: plasma-effect_1
+  - first:
+      213: 5287671138421729448
+    second: plasma-effect_2
+  - first:
+      213: -7225644005013079705
+    second: plasma-effect_3
+  - first:
+      213: 3225823041696508592
+    second: plasma-effect_4
+  - first:
+      213: -7640991220665580194
+    second: plasma-effect_5
+  - first:
+      213: -8715400452640726418
+    second: plasma-effect_6
+  - first:
+      213: -1922556596234205279
+    second: plasma-effect_7
+  - first:
+      213: 1907934462209701540
+    second: plasma-effect_8
+  - first:
+      213: -1487650123901855589
+    second: plasma-effect_9
+  - first:
+      213: 2261987920375421336
+    second: plasma-effect_10
+  - first:
+      213: -3878496870192013056
+    second: plasma-effect_11
+  - first:
+      213: 4924424551927205014
+    second: plasma-effect_12
+  - first:
+      213: -496677822018566968
+    second: plasma-effect_13
+  - first:
+      213: 7843216597588528340
+    second: plasma-effect_14
+  - first:
+      213: 4635315557377242412
+    second: plasma-effect_15
+  - first:
+      213: 4068441774185921741
+    second: plasma-effect_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plasma-effect_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 618
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 33}
+        - {x: -1, y: 33}
+        - {x: -10, y: 27}
+        - {x: -18, y: 17}
+        - {x: -18, y: 3}
+        - {x: -11, y: -6}
+        - {x: -2, y: -13}
+        - {x: 10, y: -15}
+        - {x: 21, y: -6}
+        - {x: 30, y: 5}
+        - {x: 27, y: 16}
+        - {x: 23, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3408bd5339e3044e0800000000000000
+      internalID: -1999529432567807933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 618
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 51}
+        - {x: -29, y: 39}
+        - {x: -32, y: -5}
+        - {x: -21, y: -19}
+        - {x: -2, y: -34}
+        - {x: 30, y: -23}
+        - {x: 42, y: 14}
+        - {x: 25, y: 43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ae3386ee4b6fb0800000000000000
+      internalID: -4653539038005910116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 618
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 63}
+        - {x: -36, y: 49}
+        - {x: -46, y: 27}
+        - {x: -46, y: 2}
+        - {x: -31, y: -33}
+        - {x: 9, y: -48}
+        - {x: 45, y: -37}
+        - {x: 58, y: -11}
+        - {x: 60, y: 19}
+        - {x: 49, y: 41}
+        - {x: 31, y: 57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a866b692e4916940800000000000000
+      internalID: 5287671138421729448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 618
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 57}
+        - {x: 15, y: 67}
+        - {x: -30, y: 67}
+        - {x: -60, y: 47}
+        - {x: -63, y: 0}
+        - {x: -49, y: -26}
+        - {x: -5, y: -46}
+        - {x: 26, y: -42}
+        - {x: 46, y: -19}
+        - {x: 46, y: 20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b3cf7f0b59bb90800000000000000
+      internalID: -7225644005013079705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 412
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 68}
+        - {x: -34, y: 54}
+        - {x: -59, y: 24}
+        - {x: -43, y: -39}
+        - {x: 15, y: -50}
+        - {x: 52, y: -38}
+        - {x: 68, y: 6}
+        - {x: 60, y: 57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba279c17fc64cc20800000000000000
+      internalID: 3225823041696508592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 412
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 60}
+        - {x: -43, y: 47}
+        - {x: -54, y: 6}
+        - {x: -40, y: -33}
+        - {x: 2, y: -47}
+        - {x: 52, y: -19}
+        - {x: 52, y: 35}
+        - {x: 19, y: 60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e558950f7feb5f590800000000000000
+      internalID: -7640991220665580194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 412
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65}
+        - {x: -49, y: 46}
+        - {x: -56, y: 5}
+        - {x: -37, y: -28}
+        - {x: 1, y: -40}
+        - {x: 47, y: -23}
+        - {x: 56, y: 15}
+        - {x: 45, y: 52}
+        - {x: 13, y: 66}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622219e67dac0780800000000000000
+      internalID: -8715400452640726418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 412
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 71}
+        - {x: -42, y: 58}
+        - {x: -61, y: 36}
+        - {x: -60, y: -4}
+        - {x: -41, y: -42}
+        - {x: -8, y: -55}
+        - {x: 26.13269, y: -41.163025}
+        - {x: 45, y: -18}
+        - {x: 57.137085, y: 2.9797363}
+        - {x: 55, y: 31}
+        - {x: 48, y: 50}
+        - {x: 27, y: 64}
+        - {x: 6, y: 71}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a740ec36f4b155e0800000000000000
+      internalID: -1922556596234205279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 206
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.809906, y: 70.484985}
+        - {x: 8, y: 71}
+        - {x: -19.4337, y: 59.80255}
+        - {x: -37, y: 46}
+        - {x: -42.03, y: 22.160126}
+        - {x: -40, y: -5}
+        - {x: -35, y: -26}
+        - {x: -23, y: -43}
+        - {x: -2, y: -49}
+        - {x: 17, y: -49}
+        - {x: 38, y: -49}
+        - {x: 59, y: -40}
+        - {x: 77, y: -15}
+        - {x: 82, y: 14}
+        - {x: 75, y: 44}
+        - {x: 60, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63cb2e8485a7a10800000000000000
+      internalID: 1907934462209701540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 206
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 70}
+        - {x: -44, y: 48}
+        - {x: -52, y: 7}
+        - {x: -40, y: -35}
+        - {x: 0, y: -51}
+        - {x: 46, y: -40}
+        - {x: 63, y: 13}
+        - {x: 41, y: 60}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9893ce181eca5be0800000000000000
+      internalID: -1487650123901855589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 206
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 73}
+        - {x: -10, y: 82}
+        - {x: -38, y: 71}
+        - {x: -57, y: 59}
+        - {x: -60, y: 12}
+        - {x: -55, y: -18}
+        - {x: -38, y: -40}
+        - {x: -22, y: -47}
+        - {x: -6, y: -50}
+        - {x: 19, y: -46}
+        - {x: 37, y: -40}
+        - {x: 57, y: -28}
+        - {x: 63, y: 8}
+        - {x: 52, y: 62}
+      - - {x: -1, y: -64}
+        - {x: -2, y: -54}
+        - {x: 12, y: -52}
+        - {x: 11, y: -65}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89993307702346f10800000000000000
+      internalID: 2261987920375421336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_11
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 206
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 60}
+        - {x: -6, y: 71}
+        - {x: -23, y: 74}
+        - {x: -38, y: 70}
+        - {x: -53, y: 62}
+        - {x: -60, y: 50}
+        - {x: -71, y: 36}
+        - {x: -75, y: 7}
+        - {x: -68, y: -23}
+        - {x: -47, y: -39}
+        - {x: -24, y: -45}
+        - {x: 0, y: -51}
+        - {x: 20, y: -46}
+        - {x: 36, y: -36}
+        - {x: 46, y: -19}
+        - {x: 48, y: 6}
+        - {x: 43, y: 37}
+        - {x: 33, y: 51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001adbd45afcc2ac0800000000000000
+      internalID: -3878496870192013056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 70}
+        - {x: 4, y: 74}
+        - {x: -28, y: 71}
+        - {x: -41, y: 51}
+        - {x: -53, y: 33}
+        - {x: -52, y: 0}
+        - {x: -40, y: -29}
+        - {x: -18, y: -43}
+        - {x: 20, y: -48}
+        - {x: 47, y: -36}
+        - {x: 58, y: -15}
+        - {x: 66, y: 9}
+        - {x: 65, y: 35}
+        - {x: 52, y: 57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c45dc0a02175440800000000000000
+      internalID: 4924424551927205014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 65}
+        - {x: 0, y: 69}
+        - {x: -22, y: 63}
+        - {x: -41, y: 54}
+        - {x: -54, y: 34}
+        - {x: -57, y: 13}
+        - {x: -54, y: -8}
+        - {x: -40, y: -30}
+        - {x: -4, y: -47}
+        - {x: 20, y: -47}
+        - {x: 38, y: -33}
+        - {x: 50, y: -20}
+        - {x: 60, y: 6}
+        - {x: 57, y: 30}
+        - {x: 43, y: 49}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c4c207227b19f0800000000000000
+      internalID: -496677822018566968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 64}
+        - {x: -26, y: 67}
+        - {x: -50, y: 67}
+        - {x: -68, y: 56}
+        - {x: -81, y: 42}
+        - {x: -87, y: 28}
+        - {x: -88, y: 15}
+        - {x: -84, y: 1}
+        - {x: -78, y: -17}
+        - {x: -66, y: -33}
+        - {x: -35, y: -41}
+        - {x: 6, y: -30}
+        - {x: 18, y: -17}
+        - {x: 25, y: 3}
+        - {x: 23, y: 28}
+        - {x: 13, y: 52}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc46bbb0f3b8dc60800000000000000
+      internalID: 7843216597588528340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-effect_15
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 230
+        height: 206
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -17}
+        - {x: -9, y: -16}
+        - {x: -12, y: -16}
+        - {x: -15, y: -19}
+        - {x: -15, y: -22}
+        - {x: -14, y: -25}
+        - {x: -10, y: -27}
+        - {x: -6, y: -26}
+        - {x: -5, y: -23}
+        - {x: -6, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ff43c0f2f35040800000000000000
+      internalID: 4635315557377242412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
