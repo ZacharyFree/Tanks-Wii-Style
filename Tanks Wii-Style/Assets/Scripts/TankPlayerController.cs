@@ -54,10 +54,10 @@ public class TankPlayerController : MonoBehaviour
         BulletOfChoice();
         Shoot();
 
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            TakeDamage(20);
-        }
+        //if (Input.GetKeyDown(KeyCode.Space))
+        //{
+        //    TakeDamage(20);
+        //}
         healthBar.slider.value = health;
 
         if (health <= 0)
@@ -68,10 +68,10 @@ public class TankPlayerController : MonoBehaviour
         }
     }
 
-    void TakeDamage(int damage)
+    /*void TakeDamage(int damage)
     {
         health -= damage;
-    }
+    }*/
 
     void Movement()
     {
@@ -120,6 +120,7 @@ public class TankPlayerController : MonoBehaviour
     //Recieve damage from enemy fire
     private void OnTriggerEnter(Collider other)
     {
+        
         if (other.gameObject.CompareTag("projectile"))
         {
             int bulletTypeDamageAmount = other.GetComponent<BulletBehavior>().damage;

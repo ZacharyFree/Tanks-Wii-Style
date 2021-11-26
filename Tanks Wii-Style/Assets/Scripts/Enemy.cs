@@ -14,6 +14,7 @@ public class Enemy : MonoBehaviour
     public HealthBar healthBar;
     public GameObject player;
     public Transform EnemyTurret;
+    public Transform Firepoint;
     public Collider2D detectionZone;
     public AudioClip enemyFire;
 
@@ -62,7 +63,10 @@ public class Enemy : MonoBehaviour
         Vector3 enemyPosition = gameObject.transform.position;
         Vector2 offset = new Vector2(enemyPosition.x - playerPosition.x, enemyPosition.y - playerPosition.y);
         float angle = Mathf.Atan2(offset.y, offset.x) * Mathf.Rad2Deg + 90f;
-        EnemyTurret.GetComponentInParent<Transform>().transform.rotation = Quaternion.Euler(0f, 0f, angle);
+        if (canSeePlayer)
+        {
+            EnemyTurret.GetComponentInParent<Transform>().transform.rotation = Quaternion.Euler(0f, 0f, angle);
+        }
         //code to detect player in order to shoot at you
     }
 
@@ -74,7 +78,7 @@ public class Enemy : MonoBehaviour
             //Aim();
             if (timer == 0)
             {
-                Instantiate(enemyAmmo, EnemyTurret.position, EnemyTurret.rotation);
+                Instantiate(enemyAmmo, Firepoint.position, Firepoint.rotation);
                 AudioSource.PlayClipAtPoint(enemyFire, EnemyTurret.position);
                 //Recoil Animation;
 

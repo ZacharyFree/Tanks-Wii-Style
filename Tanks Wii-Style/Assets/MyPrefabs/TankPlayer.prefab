@@ -270,7 +270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00fc3cedc846f174a97be23aba599325, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 0.75
   maxLiveBullets: 5
   health: 100
   rigidbody: {fileID: 1317233952881680694}
